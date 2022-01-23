@@ -50,7 +50,7 @@ div {
     border-bottom: 3px solid #FFFFFF;
     border-left: 10px solid #FFFFFF;
     border-right: none;
-    border-left: none;
+    border-top: none;
 }
 
 .blue {
